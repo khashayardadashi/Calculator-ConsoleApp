@@ -1,0 +1,14 @@
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\bin\Debug\net6.0\Consoleapp.cs.exe
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\bin\Debug\net6.0\Consoleapp.cs.deps.json
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\bin\Debug\net6.0\Consoleapp.cs.runtimeconfig.json
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\bin\Debug\net6.0\Consoleapp.cs.dll
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\bin\Debug\net6.0\Consoleapp.cs.pdb
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.AssemblyInfoInputs.cache
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.AssemblyInfo.cs
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.dll
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\refint\Consoleapp.cs.dll
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.pdb
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\Consoleapp.cs.genruntimeconfig.cache
+C:\Users\Alpha\source\repos\Exercise\Consoleapp.cs\obj\Debug\net6.0\ref\Consoleapp.cs.dll
